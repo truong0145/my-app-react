@@ -26,6 +26,8 @@ import { toHaveStyle } from '@testing-library/jest-dom/dist/matchers';
 //   );
 // }
 
+var huy_truong = 'nguyen linh';
+
 class Square extends React.Component {
   constructor(props) {
     super(props);
